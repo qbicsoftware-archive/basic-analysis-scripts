@@ -1,6 +1,3 @@
 [submodule "myRmdFunctions"]
 	path = myRmdFunctions
 	url = https://github.com/praveenbas/myRmdFunctions
-[submodule "myMiscFunc"]
-	path = myMiscFunc
-	url = https://github.com/praveenbas/myMiscFunc
