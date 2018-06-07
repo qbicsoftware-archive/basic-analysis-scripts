@@ -11,6 +11,7 @@ If you have already cloned it, just `init` submodules afterwards:
 ```bash
 $ git clone https://github.com/qbicsoftware/basic-analysis-script
 $ git submodule init
+$ git submodule update
 ```
 
 or as 1-liner right from the first clone command:
