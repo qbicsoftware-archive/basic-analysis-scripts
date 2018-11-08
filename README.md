@@ -28,7 +28,7 @@ If you want to add a new repository as additional submodule, just do:
 $ git submodule add <new repo url>
 ```
 
-### Add changes to your submodule to this repository
+### Add changes in your submodule to this repository
 
 Once you have made changes to your onw repository, they won't be visible here as this submodule points to a certain commit of your repository. To show the changes also in this repository, you have to run the following commands in your local repository of this project:
 
