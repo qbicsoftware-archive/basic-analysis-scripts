@@ -4,3 +4,6 @@
 [submodule "myMiscFunc"]
 	path = myMiscFunc
 	url = https://github.com/praveenbas/myMiscFunc
+[submodule "R_analysis"]
+	path = R_analysis
+	url = https://github.com/ggabernet/R_analysis.git
