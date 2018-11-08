@@ -9,7 +9,7 @@ This repository contains submodules, which point to different GitHub repositorie
 If you have already cloned it, just `init` submodules afterwards:
 
 ```bash
-$ git clone https://github.com/qbicsoftware/basic-analysis-script
+$ git clone https://github.com/qbicsoftware/basic-analysis-scripts.git
 $ git submodule init
 $ git submodule update
 ```
@@ -17,7 +17,7 @@ $ git submodule update
 or as 1-liner right from the first clone command:
 
 ```bash
-$ git clone --recurse-submodules 
+$ git clone --recurse-submodules https://github.com/qbicsoftware/basic-analysis-scripts.git
 ```
 
 ### Add a new submodule
